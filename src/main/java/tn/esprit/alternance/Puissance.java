@@ -1,5 +1,7 @@
 package tn.esprit.alternance;
 import java.util.Scanner;
+
+//C'est la classe Puissance 
 public class Puissance {
 
 	
