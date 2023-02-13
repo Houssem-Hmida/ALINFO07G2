@@ -3,8 +3,7 @@ package tn.esprit.alternance;
 import java.util.Scanner;
 
 public class Multiplication {
-//
-	//git
+
 	public static void multiplication()
 	{int nOne, nTwo;
 	Scanner kb = new Scanner(System.in);
